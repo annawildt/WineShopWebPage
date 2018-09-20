@@ -1,0 +1,178 @@
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+  margin: 20px;
+}
+
+.App-header {
+  background-color: lightblue;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.column {
+  height: 100%;  /*allows both columns to span the full height of the browser window*/
+  display: flex;
+  flex-direction: column;  /*places the left and right headers above the bottom content*/
+}
+
+#middle {
+  min-width: 1100px;
+}
+
+#left {
+  min-width: 220px;
+    /*makes sure that content is not cut off in a smaller browser window*/
+}
+
+#top-left {
+  flex-shrink: 0  ;
+  display: inline-flex;
+  background-color: lightblue;
+  flex: 1;
+  z-index: 0;
+  flex: 0 64px;
+  display: flex;
+}
+
+#top-right {
+  flex-shrink: 0  ;
+  display: inline-flex;
+  background-color: lightblue;
+  align-items: center;
+  flex: 1;
+  z-index: 0;
+  flex: 0 64px;
+  display: flex;
+}
+
+#top-middle {
+  flex-shrink: 0;
+  display: inline-flex;
+  background-color: lightblue;
+  z-index: 0;
+  flex: 0 64px;
+  display: flex;
+}
+
+.bottom {
+  flex-grow: 1;  /*ensures that the container will take up the full height of the parent container*/
+  overflow-y: auto;  /*adds scroll to this container*/
+
+}
+
+.set-height {
+  min-height: 120px;
+}
+
+.set-width {
+  width: 100px;
+  
+}
+
+.wrapper {
+  height: 100%;     /*makes the body non-scrollable (we will add scrolling to the sidebar and main content containers)*/
+  margin: 0px;  /*removes default style*/
+  display: flex;  /*enables flex content for its children*/
+  box-sizing: border-box;
+  text-align: center;
+  overflow: hidden;
+
+}
+
+.leftcolumn {
+  width: 10%;
+  padding: auto;
+  margin: 0px;
+  flex: 0 0 auto;
+
+}
+
+button {
+  background-color: #00308F;
+  box-shadow: 0 2px 4px 1px rgba(0, 96, 129, .3);
+  border: none;
+  color: white;
+  padding: 0px 16px;
+  border: 0;
+  text-align: center;
+  font-size: 16px;
+  margin: 1px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 25;
+  size: 20px;
+}
+
+#dropmenu {
+  border-radius: 25px; 
+  border: none;
+  border-radius: 10px;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 200px;
+  margin: 20px;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#search{
+  width: 40%;
+  max-width: 50%;
+  height: 2em;
+  border-radius: 4px;
+  padding: auto;
+  margin: auto;
+  display: block;
+}
+
+#title {
+  
+  float: center;
+}
+.top-middle{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.content {
+  height: 30px;
+  
+}
+
+#bild {
+  max-width: 20px;
+  display: inline;
+}
+  
+#site-title {
+  margin-right: 0px;
+  margin: auto;
+  font-family: 'Gabriela', serif;
+}
+
+
+

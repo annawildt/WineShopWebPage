@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="300"
+   height="300"
+   version="1.0"
+   sodipodi:docbase="C:\Users\Melissa Robbins\SVG  &amp; SCUT Files"
+   sodipodi:docname="Wine Bottle.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="575"
+     inkscape:window-width="765"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.2566667"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:window-x="92"
+     inkscape:window-y="92"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#000000"
+     d="M 63.84191,266.22971 C 62.29531,264.68311 62.15731,173.88438 63.67991,159.6403 C 65.25951,144.86295 69.80985,129.95255 78.0864,112.43354 C 92.19394,82.572046 94.78332,73.00018 95.40075,48.429708 C 95.84954,30.57006 95.79253,29.863769 93.75377,28.02472 C 90.93408,25.481238 90.87346,19.198153 93.64191,16.429708 C 95.31046,14.761158 96.97524,14.429708 103.68736,14.429708 C 110.89612,14.429708 111.98808,14.684973 114.18736,16.884253 C 117.16081,19.857698 117.29161,22.851845 114.63817,27.203878 C 112.84548,30.144163 112.64191,32.248987 112.64191,47.844402 C 112.64191,63.127803 112.94124,66.362798 115.1375,74.81576 C 118.16499,86.467917 123.2488,99.595898 129.84349,112.79119 C 132.55419,118.215 136.29815,127.215 138.1634,132.79119 C 144.23169,150.93235 144.63341,155.97551 144.63789,214.07272 C 144.64148,260.70021 144.47459,266.27994 143.06012,266.82272 C 142.19014,267.15657 124.28014,267.42971 103.26012,267.42971 C 74.86818,267.42971 64.73338,267.12118 63.84191,266.22971 z M 132.64191,217.42971 L 132.64191,177.42971 L 104.14191,177.42971 L 75.64191,177.42971 L 75.64191,217.42971 L 75.64191,257.42971 L 104.14191,257.42971 L 132.64191,257.42971 L 132.64191,217.42971 z "
+     id="path2161" />
+</svg>
